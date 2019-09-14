@@ -1,0 +1,4 @@
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1	18-06-2019 16:48:55
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1	18-06-2019 16:49:54
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1	18-06-2019 17:02:08
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1	18-06-2019 17:03:14
